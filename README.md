@@ -1,2 +1,2 @@
 # magento2
-this is a ingo file
+this is a info file
